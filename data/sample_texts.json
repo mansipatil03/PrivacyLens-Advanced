@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "domain": "customer_support",
+    "text": "Hi team, customer Rahul Sharma (rahul.sharma92@gmail.com, +91-98765-43210) is unable to login. His Aadhaar ending with 9012 and PAN ABCDE1234F were verified earlier. Card number 4532 0148 7932 1142 was used for payment. Please check from IP 103.25.44.18."
+  },
+  {
+    "id": 2,
+    "domain": "healthcare",
+    "text": "Patient: Priya Patel, DOB 12/03/1988. Contact: 98200 12345. Aadhaar: 2345-6789-0123. Diagnosis discussed in confidence. Follow-up scheduled."
+  },
+  {
+    "id": 3,
+    "domain": "internal",
+    "text": "From: ananya.i@company.com Please share the employee ID EMP-004821 details with finance. Also note the UPI id ananya@okhdfcbank for reimbursement."
+  },
+  {
+    "id": 4,
+    "domain": "clean",
+    "text": "The quarterly review meeting is scheduled for next Monday at 11 AM in the conference room."
+  },
+  {
+    "id": 5,
+    "domain": "mixed",
+    "text": "Applicant Name: Amit Verma. Passport: A1234567. Phone: 9123456780. Email: amit.v@outlook.com. Address related documents attached."
+  }
+]
